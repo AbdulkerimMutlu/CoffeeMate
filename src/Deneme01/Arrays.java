@@ -15,5 +15,7 @@ public class Arrays {
         boolean VarMi=bismil.contains("Sefa");
         System.out.println("bismil = " + VarMi);
         System.out.println(bismil);
+        if (VarMi==true)
+            System.out.println("seni aramızda görmek güzeldi");
     }
 }
